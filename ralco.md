@@ -19,6 +19,7 @@ The shop will be prepared in partnership between the shopkeeper and the company.
   <div style='display: flex; width: 100%;justify-content: center;'>
   <img src='front.jpeg' width=170 style='margin-left: 16px;' />
   <img src='shop_1.jpeg' width=300 style='margin-left: 16px;' />
+  <img src='counter_2.jpeg' width=170 style='margin-left: 16px;' />
   </div>
 - **Counter**: The shop counter will be developed the company at a nominal cost to the shopkeeper. The approximate cost to the shopkeeper will be ₹ 3500 - 4000
   <div style='display: flex; width: 100%;justify-content: center;'>
