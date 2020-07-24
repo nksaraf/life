@@ -17,8 +17,8 @@ The shop will be prepared in partnership between the shopkeeper and the company.
 - **Branding of shop**: The company will apply its branding on the _outer wall_, _inner wall_ and add a _glow sign board_. This will be free of cost to the shopkeeper.
   
   <div style='display: flex; width: 100%;justify-content: center;'>
-  <img src='front.jpeg' width=300 style='margin-left: 16px;' />
-  <img src='shop_1.jpeg' width=170 style='margin-left: 16px;' />
+  <img src='front.jpeg' width=170 style='margin-left: 16px;' />
+  <img src='shop_1.jpeg' width=300 style='margin-left: 16px;' />
   </div>
 - **Counter**: The shop counter will be developed the company at a nominal cost to the shopkeeper. The approximate cost to the shopkeeper will be ₹ 3500 - 4000
   <div style='display: flex; width: 100%;justify-content: center;'>
@@ -31,6 +31,9 @@ The shop will be prepared in partnership between the shopkeeper and the company.
   <img src='rack_0.jpeg' width=300 style='margin-left: 16px;' />
   </div>
 - **Shop size**: We would like the shops to be in the size range of 10' x 12'
+  <div style='display: flex; width: 100%;justify-content: center;'>
+   <img src='shop_0.jpeg' width=300 style='margin-left: 16px;' />
+  </div>
 
 ### Policies for shopkeeper
 
@@ -48,3 +51,7 @@ We think that partering with hard working and talented shopkeepers will be key f
 ### Advertisements
 
 This will also require advertisements for Ralco shopees in the newspapers in Bihar. There are a few considerations that should be made. Normally when these advertisements are made, we get a high volume of calls on the same day and we are not able to filter the callers properly. We think this should be dane in 3 to 4 phases in different areas of Bihar, with gaps of 3 to 4 days between each phase. This way we can evaluate all the callers and ensure that we are partnering with quality shopkeepers. We should include an image of an example Ralco shop's front face. This helps people easily visualize what their shop could look like, and can make it easier to sell the idea to them.
+
+ <div style='display: flex; width: 100%;justify-content: center;'>
+   <img src='shop_2.jpeg' width=300 style='margin-left: 16px;' />
+  </div>
