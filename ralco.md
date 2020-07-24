@@ -15,11 +15,12 @@ The project that we are proposing involves establishing a number of Ralco shopee
 The shop will be prepared in partnership between the shopkeeper and the company. The company will bear a portion of the cost of the branding and counter maintained by the shopkeeper.
 
 - **Branding of shop**: The company will apply its branding on the _outer wall_, _inner wall_ and add a _glow sign board_. This will be free of cost to the shopkeeper.
-  
+
   <div style='display: flex; width: 100%;justify-content: center;'>
   <img src='front.jpeg' width=170 style='margin-left: 16px;' />
   <img src='shop_1.jpeg' width=300 style='margin-left: 16px;' />
   </div>
+
 - **Counter**: The shop counter will be developed the company at a nominal cost to the shopkeeper. The approximate cost to the shopkeeper will be ₹ 3500 - 4000
   <div style='display: flex; width: 100%;justify-content: center;'>
   <img src='counter_0.jpeg' width=300 style='margin-left: 16px;' />
@@ -55,3 +56,8 @@ This will also require advertisements for Ralco shopees in the newspapers in Bih
  <div style='display: flex; width: 100%;justify-content: center;'>
    <img src='shop_2.jpeg' width=300 style='margin-left: 16px;' />
   </div>
+
+- Brochure with details of policy
+- Bank account compulsaory, no GST compulsaory
+- for 3 years, binding to not have any other product in the auto segment
+- our cost of branding is covered by not having to pay interest
