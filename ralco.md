@@ -47,22 +47,22 @@ We think that partering with hard working and talented shopkeepers will be key f
 
 - **Investment**: The shopkeeper will need to make a deposit of minimum ₹ 50,000 only to maintain a shop with us.
 
-  - Interest rate of 9% will be paid to the shopkeeper from the company. This policy will not apply for the first 2-3 years, but we are fairly compensating the shopkeeper for the by spending on their shop's branding.
+  - Interest rate of 9% will be paid to the shopkeeper from the company. This policy will not apply for the first 2-3 years, but we are fairly compensating the shopkeeper by spending on their shop's branding. On our end, the cost of the branding is covered by not paying interest for the first 2-3 years.
   - If the shopkeeper wishes to add more credit, additional deposit can be made at an interest rate of 9%
+  - Having a bank account is compulsory for the shopkeeper but GST number is optional.
 
 - **Sale target:** The shopkeeper will be expected to sell a minimum of 30 tyres and 100 tubes for two and three-wheelers per month
 
-- **Accessories:** Shopkeepers will also be allowed to maintain other products related to two and three-wheelers. This will allow the Ralco shop to become a store that people can associate with getting all their auto needs met. This includes accessories like mobile lubricant and spare parts for two and three-wheelers
+- **Other products:**
+  - For the first three years, shopkeepers will not be allowed to maintain products of other brands in the auto-segment.
+  - Shopkeepers will also be allowed to maintain other products related to two and three-wheelers. This will allow the Ralco shop to become a store that people can associate with getting all their auto needs met. This includes accessories like lubricant and spare parts for two and three-wheelers.
 
-### Advertisements
+### Advertising
 
 This will also require advertisements for Ralco shopees in the newspapers in Bihar. There are a few considerations that should be made. Normally when these advertisements are made, we get a high volume of calls on the same day and we are not able to filter the callers properly. We think this should be dane in 3 to 4 phases in different areas of Bihar, with gaps of 3 to 4 days between each phase. This way we can evaluate all the callers and ensure that we are partnering with quality shopkeepers. We should include an image of an example Ralco shop's front face. This helps people easily visualize what their shop could look like, and can make it easier to sell the idea to them.
+
+Along with this, a brochure should also be prepared that explains the details of the program. That way, we can just forward that to people on their phones when they ask for information.
 
  <div style='display: flex; width: 100%;justify-content: center;'>
    <img src='shop_2.jpeg' width=500 style='margin-left: 16px;' />
   </div>
-
-- Brochure with details of policy
-- Bank account compulsaory, no GST compulsaory
-- for 3 years, binding to not have any other product in the auto segment
-- our cost of branding is covered by not having to pay interest
