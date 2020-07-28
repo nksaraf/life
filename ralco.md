@@ -59,9 +59,10 @@ We think that partering with hard working and talented shopkeepers will be key f
 
 ### Advertising
 
-This will also require advertisements for Ralco shopees in the newspapers in Bihar. There are a few considerations that should be made. Normally when these advertisements are made, we get a high volume of calls on the same day and we are not able to filter the callers properly. We think this should be dane in 3 to 4 phases in different areas of Bihar, with gaps of 3 to 4 days between each phase. This way we can evaluate all the callers and ensure that we are partnering with quality shopkeepers. We should include an image of an example Ralco shop's front face. This helps people easily visualize what their shop could look like, and can make it easier to sell the idea to them.
-
-Along with this, a brochure should also be prepared that explains the details of the program. That way, we can just forward that to people on their phones when they ask for information.
+This will also require advertisements for Ralco shopees in the newspapers in Bihar. There are a few considerations that should be made. Normally when these advertisements are made, we get a high volume of calls on the same day and we are not able to filter the callers properly. 
+- We think this should be dane in 3 to 4 phases in different areas of Bihar, with gaps of 3 to 4 days between each phase. This way we can have proper conversations with all the callers and ensure that we are partnering with quality shopkeepers. 
+- We should include an image of an example Ralco shop's front face. This helps people easily visualize what their shop could look like, and can make it easier to sell the idea to them.
+- A brochure should also be prepared that explains the details of the program. That way, we can just forward that to people on their phones when they ask for information.
 
  <div style='display: flex; width: 100%;justify-content: center;'>
    <img src='shop_2.jpeg' width=500 style='margin-left: 16px;' />
